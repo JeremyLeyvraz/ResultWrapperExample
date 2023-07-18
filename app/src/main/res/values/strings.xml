@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Example</string>
+    <string name="minutes">%d min</string>
+    <string name="error_nodata_message">Connection error. Please check your Internet connection and try again.</string>
+    <string name="error_timeout_message">Timeout !</string>
+    <string name="error_unknown_message">Something wrong… buy an iphone !</string>
+</resources>
